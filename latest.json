@@ -1,6 +1,6 @@
 {
-  "version": "0.7.17",
-  "url": "app-0.7.17.bundle.gz",
-  "sha256": "b2bced8d9a025ec962053cc0fdadd9488f8d9968212b85e396eb28612aaecb2c",
-  "notes": "新增數學速練"
+  "version": "0.7.18",
+  "url": "app-0.7.18.bundle.gz",
+  "sha256": "8832b5444366e4d3ef78de922c1e297e53a8be6974adbe4865f3e37e279c25f3",
+  "notes": "新增金幣商店與裝備合成"
 }
