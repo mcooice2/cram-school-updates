@@ -1,6 +1,6 @@
 {
-  "version": "0.7.18",
-  "url": "app-0.7.18.bundle.gz",
-  "sha256": "8832b5444366e4d3ef78de922c1e297e53a8be6974adbe4865f3e37e279c25f3",
-  "notes": "新增金幣商店與裝備合成"
+  "version": "0.7.19",
+  "url": "app-0.7.19.bundle.gz",
+  "sha256": "ce94b917138f8d3dbea2b7396ee072453447bc25ea59f1044264689372f9232b",
+  "notes": "小勇者養成畫面調整、家教有點名才扣堂"
 }
