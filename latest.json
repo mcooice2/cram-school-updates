@@ -1,6 +1,6 @@
 {
-  "version": "0.7.19",
-  "url": "app-0.7.19.bundle.gz",
-  "sha256": "ce94b917138f8d3dbea2b7396ee072453447bc25ea59f1044264689372f9232b",
-  "notes": "小勇者養成畫面調整、家教有點名才扣堂"
+  "version": "0.7.20",
+  "url": "app-0.7.20.bundle.gz",
+  "sha256": "330bfc15c2e88870a83838ac70ba398b40f84c30f8efa09bd506f17a84eb7912",
+  "notes": "熊白白箱、強化加成、訂餐老師便當"
 }
