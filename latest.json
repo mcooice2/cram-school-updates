@@ -1,6 +1,6 @@
 {
-  "version": "0.7.20",
-  "url": "app-0.7.20.bundle.gz",
-  "sha256": "330bfc15c2e88870a83838ac70ba398b40f84c30f8efa09bd506f17a84eb7912",
-  "notes": "熊白白箱、強化加成、訂餐老師便當"
+  "version": "0.7.21",
+  "url": "app-0.7.21.bundle.gz",
+  "sha256": "f4a36525fe42195ad88a85a45fb36c61fc625ca3d44d5c79ec519ba0d693cbc3",
+  "notes": "老師送禮包不限次數"
 }
